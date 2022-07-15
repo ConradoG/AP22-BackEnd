@@ -1,3 +1,3 @@
 # AP22-BackEnd
 portfolio-backEnd
-Este es el portfolio destinado al backEnd
+Este es el respositorio destinado al backEnd
